@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6254" systemVersion="14B25" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="wEK-IM-kXQ">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
+    </dependencies>
+    <scenes>
+        <!--Navigation Controller-->
+        <scene sceneID="fDw-dW-bbr">
+            <objects>
+                <navigationController id="wEK-IM-kXQ" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="dDf-tq-FG3">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="QAt-Rb-bEA" kind="relationship" relationship="rootViewController" id="2ji-Hd-iCf"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="NxE-15-NRr" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-411" y="601"/>
+        </scene>
+        <!--Controller Main View Controller-->
+        <scene sceneID="2mT-BA-tCa">
+            <objects>
+                <viewController id="QAt-Rb-bEA" customClass="ENGControllerMainViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="x8q-pp-AqD"/>
+                        <viewControllerLayoutGuide type="bottom" id="I2t-av-85Z"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="IbX-Jv-IhY">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gvA-qd-nyr">
+                                <rect key="frame" x="150" y="150" width="300" height="300"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mCn-Ae-8Tl">
+                                        <rect key="frame" x="127" y="262" width="46" height="30"/>
+                                        <state key="normal" title="Down">
+                                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                        </state>
+                                        <variation key="heightClass=regular-widthClass=regular" fixedFrame="YES">
+                                            <rect key="frame" x="77" y="162" width="46" height="30"/>
+                                        </variation>
+                                        <connections>
+                                            <action selector="onDownButtonTapped:" destination="QAt-Rb-bEA" eventType="touchUpInside" id="3LC-HC-1qq"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WqV-m7-Snr">
+                                        <rect key="frame" x="8" y="135" width="46" height="30"/>
+                                        <state key="normal" title="Left">
+                                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                        </state>
+                                        <variation key="heightClass=regular-widthClass=regular" fixedFrame="YES">
+                                            <rect key="frame" x="8" y="85" width="46" height="30"/>
+                                        </variation>
+                                        <connections>
+                                            <action selector="onLeftButtonTapped:" destination="QAt-Rb-bEA" eventType="touchUpInside" id="Xda-oS-WcG"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JtB-NP-cXH">
+                                        <rect key="frame" x="246" y="135" width="46" height="30"/>
+                                        <state key="normal" title="Right">
+                                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="onRightButtonTapped:" destination="QAt-Rb-bEA" eventType="touchUpInside" id="sJA-pH-wk7"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="E0t-La-q91">
+                                        <rect key="frame" x="127" y="8" width="46" height="30"/>
+                                        <state key="normal" title="Up">
+                                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                        </state>
+                                        <variation key="heightClass=regular-widthClass=regular" fixedFrame="YES">
+                                            <rect key="frame" x="77" y="8" width="46" height="30"/>
+                                        </variation>
+                                        <connections>
+                                            <action selector="onUpButtonTapped:" destination="QAt-Rb-bEA" eventType="touchUpInside" id="X5u-1J-onq"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="centerX" secondItem="E0t-La-q91" secondAttribute="centerX" id="2tx-b2-oq7"/>
+                                    <constraint firstAttribute="bottom" secondItem="mCn-Ae-8Tl" secondAttribute="bottom" constant="8" id="3mV-tD-VWJ"/>
+                                    <constraint firstAttribute="centerY" secondItem="WqV-m7-Snr" secondAttribute="centerY" id="4zB-Vh-kFP"/>
+                                    <constraint firstAttribute="width" constant="300" id="96Q-oT-deK"/>
+                                    <constraint firstAttribute="height" constant="300" id="9wE-er-YTM"/>
+                                    <constraint firstItem="WqV-m7-Snr" firstAttribute="leading" secondItem="gvA-qd-nyr" secondAttribute="leading" constant="8" id="L2R-AU-LJv"/>
+                                    <constraint firstItem="E0t-La-q91" firstAttribute="top" secondItem="gvA-qd-nyr" secondAttribute="top" constant="8" id="Rwq-gr-ltF"/>
+                                    <constraint firstAttribute="centerX" secondItem="mCn-Ae-8Tl" secondAttribute="centerX" id="cdu-mN-tSv"/>
+                                    <constraint firstAttribute="trailing" secondItem="JtB-NP-cXH" secondAttribute="trailing" constant="8" id="dL4-61-NSX"/>
+                                    <constraint firstAttribute="centerY" secondItem="JtB-NP-cXH" secondAttribute="centerY" id="suv-QU-iGV"/>
+                                </constraints>
+                            </view>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Uw2-Ql-dUr">
+                                <rect key="frame" x="277" y="285" width="46" height="30"/>
+                                <state key="normal" title="Stop">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="onStopButtonTapped:" destination="QAt-Rb-bEA" eventType="touchUpInside" id="31A-MT-Xe0"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="centerX" secondItem="gvA-qd-nyr" secondAttribute="centerX" id="PBD-pq-U6U"/>
+                            <constraint firstAttribute="centerY" secondItem="gvA-qd-nyr" secondAttribute="centerY" id="T3W-zy-ak7"/>
+                            <constraint firstAttribute="centerY" secondItem="Uw2-Ql-dUr" secondAttribute="centerY" id="sNd-qm-fzd"/>
+                            <constraint firstAttribute="centerX" secondItem="Uw2-Ql-dUr" secondAttribute="centerX" id="yis-aH-93e"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="S3c-Kv-JnX"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="fP0-ui-S9O" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="272" y="601"/>
+        </scene>
+    </scenes>
+</document>

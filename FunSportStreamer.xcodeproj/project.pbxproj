@@ -1,955 +1,679 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>2EADDB68D6CE25AF4D4636E0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-FunSportStreamer.debug.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Target Support Files/Pods-FunSportStreamer/Pods-FunSportStreamer.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3C9E404341A90E7C4D2F32A8</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>58D6014AF67ABD87E4673830</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>45196364890CC1F68D6CF213</key>
-		<dict>
-			<key>fileRef</key>
-			<string>58D6014AF67ABD87E4673830</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>58D6014AF67ABD87E4673830</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-FunSportStreamer.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>793CD2941A3ECA0700CF33E5</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>793CD29F1A3ECA0700CF33E5</string>
-				<string>793CD2B91A3ECA0700CF33E5</string>
-				<string>793CD29E1A3ECA0700CF33E5</string>
-				<string>DFFB7F9CBF1D65BF5C42EDF3</string>
-				<string>3C9E404341A90E7C4D2F32A8</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD2951A3ECA0700CF33E5</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastUpgradeCheck</key>
-				<string>0610</string>
-				<key>ORGANIZATIONNAME</key>
-				<string>engraphia</string>
-				<key>TargetAttributes</key>
-				<dict>
-					<key>793CD29C1A3ECA0700CF33E5</key>
-					<dict>
-						<key>CreatedOnToolsVersion</key>
-						<string>6.1.1</string>
-					</dict>
-					<key>793CD2B51A3ECA0700CF33E5</key>
-					<dict>
-						<key>CreatedOnToolsVersion</key>
-						<string>6.1.1</string>
-						<key>TestTargetID</key>
-						<string>793CD29C1A3ECA0700CF33E5</string>
-					</dict>
-				</dict>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>793CD2981A3ECA0700CF33E5</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-				<string>Base</string>
-			</array>
-			<key>mainGroup</key>
-			<string>793CD2941A3ECA0700CF33E5</string>
-			<key>productRefGroup</key>
-			<string>793CD29E1A3ECA0700CF33E5</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>793CD29C1A3ECA0700CF33E5</string>
-				<string>793CD2B51A3ECA0700CF33E5</string>
-			</array>
-		</dict>
-		<key>793CD2981A3ECA0700CF33E5</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>793CD2BE1A3ECA0700CF33E5</string>
-				<string>793CD2BF1A3ECA0700CF33E5</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>793CD2991A3ECA0700CF33E5</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>793CD2A91A3ECA0700CF33E5</string>
-				<string>793CD2A61A3ECA0700CF33E5</string>
-				<string>793CD2A31A3ECA0700CF33E5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>793CD29A1A3ECA0700CF33E5</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>45196364890CC1F68D6CF213</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>793CD29B1A3ECA0700CF33E5</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>793CD2AC1A3ECA0700CF33E5</string>
-				<string>793CD2B11A3ECA0700CF33E5</string>
-				<string>793CD2AE1A3ECA0700CF33E5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>793CD29C1A3ECA0700CF33E5</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>793CD2C01A3ECA0700CF33E5</string>
-			<key>buildPhases</key>
-			<array>
-				<string>E4DB7B72C5085F0271CD5812</string>
-				<string>793CD2991A3ECA0700CF33E5</string>
-				<string>793CD29A1A3ECA0700CF33E5</string>
-				<string>793CD29B1A3ECA0700CF33E5</string>
-				<string>802671D3F49DEC1FD5CBFC0C</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>FunSportStreamer</string>
-			<key>productName</key>
-			<string>FunSportStreamer</string>
-			<key>productReference</key>
-			<string>793CD29D1A3ECA0700CF33E5</string>
-			<key>productType</key>
-			<string>com.apple.product-type.application</string>
-		</dict>
-		<key>793CD29D1A3ECA0700CF33E5</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.application</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>FunSportStreamer.app</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>793CD29E1A3ECA0700CF33E5</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>793CD29D1A3ECA0700CF33E5</string>
-				<string>793CD2B61A3ECA0700CF33E5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD29F1A3ECA0700CF33E5</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>793CD2A41A3ECA0700CF33E5</string>
-				<string>793CD2A51A3ECA0700CF33E5</string>
-				<string>793CD2A71A3ECA0700CF33E5</string>
-				<string>793CD2A81A3ECA0700CF33E5</string>
-				<string>793CD2AA1A3ECA0700CF33E5</string>
-				<string>793CD2AD1A3ECA0700CF33E5</string>
-				<string>793CD2AF1A3ECA0700CF33E5</string>
-				<string>793CD2A01A3ECA0700CF33E5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>FunSportStreamer</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD2A01A3ECA0700CF33E5</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>793CD2A11A3ECA0700CF33E5</string>
-				<string>793CD2A21A3ECA0700CF33E5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Supporting Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD2A11A3ECA0700CF33E5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD2A21A3ECA0700CF33E5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>main.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD2A31A3ECA0700CF33E5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>793CD2A21A3ECA0700CF33E5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>793CD2A41A3ECA0700CF33E5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>AppDelegate.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD2A51A3ECA0700CF33E5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>AppDelegate.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD2A61A3ECA0700CF33E5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>793CD2A51A3ECA0700CF33E5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>793CD2A71A3ECA0700CF33E5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>ViewController.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD2A81A3ECA0700CF33E5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>ViewController.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD2A91A3ECA0700CF33E5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>793CD2A81A3ECA0700CF33E5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>793CD2AA1A3ECA0700CF33E5</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>793CD2AB1A3ECA0700CF33E5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXVariantGroup</string>
-			<key>name</key>
-			<string>Main.storyboard</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD2AB1A3ECA0700CF33E5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>file.storyboard</string>
-			<key>name</key>
-			<string>Base</string>
-			<key>path</key>
-			<string>Base.lproj/Main.storyboard</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD2AC1A3ECA0700CF33E5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>793CD2AA1A3ECA0700CF33E5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>793CD2AD1A3ECA0700CF33E5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>folder.assetcatalog</string>
-			<key>path</key>
-			<string>Images.xcassets</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD2AE1A3ECA0700CF33E5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>793CD2AD1A3ECA0700CF33E5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>793CD2AF1A3ECA0700CF33E5</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>793CD2B01A3ECA0700CF33E5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXVariantGroup</string>
-			<key>name</key>
-			<string>LaunchScreen.xib</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD2B01A3ECA0700CF33E5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>file.xib</string>
-			<key>name</key>
-			<string>Base</string>
-			<key>path</key>
-			<string>Base.lproj/LaunchScreen.xib</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD2B11A3ECA0700CF33E5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>793CD2AF1A3ECA0700CF33E5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>793CD2B21A3ECA0700CF33E5</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>793CD2BD1A3ECA0700CF33E5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>793CD2B31A3ECA0700CF33E5</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>793CD2B41A3ECA0700CF33E5</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>793CD2B51A3ECA0700CF33E5</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>793CD2C31A3ECA0700CF33E5</string>
-			<key>buildPhases</key>
-			<array>
-				<string>793CD2B21A3ECA0700CF33E5</string>
-				<string>793CD2B31A3ECA0700CF33E5</string>
-				<string>793CD2B41A3ECA0700CF33E5</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>793CD2B81A3ECA0700CF33E5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>FunSportStreamerTests</string>
-			<key>productName</key>
-			<string>FunSportStreamerTests</string>
-			<key>productReference</key>
-			<string>793CD2B61A3ECA0700CF33E5</string>
-			<key>productType</key>
-			<string>com.apple.product-type.bundle.unit-test</string>
-		</dict>
-		<key>793CD2B61A3ECA0700CF33E5</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.cfbundle</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>FunSportStreamerTests.xctest</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>793CD2B71A3ECA0700CF33E5</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>793CD2951A3ECA0700CF33E5</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>793CD29C1A3ECA0700CF33E5</string>
-			<key>remoteInfo</key>
-			<string>FunSportStreamer</string>
-		</dict>
-		<key>793CD2B81A3ECA0700CF33E5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>793CD29C1A3ECA0700CF33E5</string>
-			<key>targetProxy</key>
-			<string>793CD2B71A3ECA0700CF33E5</string>
-		</dict>
-		<key>793CD2B91A3ECA0700CF33E5</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>793CD2BC1A3ECA0700CF33E5</string>
-				<string>793CD2BA1A3ECA0700CF33E5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>FunSportStreamerTests</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD2BA1A3ECA0700CF33E5</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>793CD2BB1A3ECA0700CF33E5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Supporting Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD2BB1A3ECA0700CF33E5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD2BC1A3ECA0700CF33E5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>FunSportStreamerTests.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>793CD2BD1A3ECA0700CF33E5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>793CD2BC1A3ECA0700CF33E5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>793CD2BE1A3ECA0700CF33E5</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES_ERROR</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES_AGGRESSIVE</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.1</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>793CD2BF1A3ECA0700CF33E5</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>ENABLE_NS_ASSERTIONS</key>
-				<string>NO</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES_ERROR</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES_AGGRESSIVE</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.1</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>793CD2C01A3ECA0700CF33E5</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>793CD2C11A3ECA0700CF33E5</string>
-				<string>793CD2C21A3ECA0700CF33E5</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>793CD2C11A3ECA0700CF33E5</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>2EADDB68D6CE25AF4D4636E0</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ASSETCATALOG_COMPILER_APPICON_NAME</key>
-				<string>AppIcon</string>
-				<key>INFOPLIST_FILE</key>
-				<string>FunSportStreamer/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>793CD2C21A3ECA0700CF33E5</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>8B667EA55D6B3E170C2394A5</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ASSETCATALOG_COMPILER_APPICON_NAME</key>
-				<string>AppIcon</string>
-				<key>INFOPLIST_FILE</key>
-				<string>FunSportStreamer/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>793CD2C31A3ECA0700CF33E5</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>793CD2C41A3ECA0700CF33E5</string>
-				<string>793CD2C51A3ECA0700CF33E5</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>793CD2C41A3ECA0700CF33E5</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>BUNDLE_LOADER</key>
-				<string>$(TEST_HOST)</string>
-				<key>FRAMEWORK_SEARCH_PATHS</key>
-				<array>
-					<string>$(SDKROOT)/Developer/Library/Frameworks</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>INFOPLIST_FILE</key>
-				<string>FunSportStreamerTests/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks @loader_path/Frameworks</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>TEST_HOST</key>
-				<string>$(BUILT_PRODUCTS_DIR)/FunSportStreamer.app/FunSportStreamer</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>793CD2C51A3ECA0700CF33E5</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>BUNDLE_LOADER</key>
-				<string>$(TEST_HOST)</string>
-				<key>FRAMEWORK_SEARCH_PATHS</key>
-				<array>
-					<string>$(SDKROOT)/Developer/Library/Frameworks</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>INFOPLIST_FILE</key>
-				<string>FunSportStreamerTests/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks @loader_path/Frameworks</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>TEST_HOST</key>
-				<string>$(BUILT_PRODUCTS_DIR)/FunSportStreamer.app/FunSportStreamer</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>802671D3F49DEC1FD5CBFC0C</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>Copy Pods Resources</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Target Support Files/Pods-FunSportStreamer/Pods-FunSportStreamer-resources.sh"
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>8B667EA55D6B3E170C2394A5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-FunSportStreamer.release.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Target Support Files/Pods-FunSportStreamer/Pods-FunSportStreamer.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DFFB7F9CBF1D65BF5C42EDF3</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>2EADDB68D6CE25AF4D4636E0</string>
-				<string>8B667EA55D6B3E170C2394A5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E4DB7B72C5085F0271CD5812</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>Check Pods Manifest.lock</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>diff "${PODS_ROOT}/../Podfile.lock" "${PODS_ROOT}/Manifest.lock" &gt; /dev/null
-if [[ $? != 0 ]] ; then
-    cat &lt;&lt; EOM
-error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.
-EOM
-    exit 1
-fi
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>793CD2951A3ECA0700CF33E5</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		45196364890CC1F68D6CF213 /* libPods-FunSportStreamer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 58D6014AF67ABD87E4673830 /* libPods-FunSportStreamer.a */; };
+		793CD2A31A3ECA0700CF33E5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 793CD2A21A3ECA0700CF33E5 /* main.m */; };
+		793CD2A61A3ECA0700CF33E5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 793CD2A51A3ECA0700CF33E5 /* AppDelegate.m */; };
+		793CD2A91A3ECA0700CF33E5 /* ENGStreamerMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 793CD2A81A3ECA0700CF33E5 /* ENGStreamerMainViewController.m */; };
+		793CD2AC1A3ECA0700CF33E5 /* ENGStreamerMain.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 793CD2AA1A3ECA0700CF33E5 /* ENGStreamerMain.storyboard */; };
+		793CD2AE1A3ECA0700CF33E5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 793CD2AD1A3ECA0700CF33E5 /* Images.xcassets */; };
+		793CD2B11A3ECA0700CF33E5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 793CD2AF1A3ECA0700CF33E5 /* LaunchScreen.xib */; };
+		793CD2BD1A3ECA0700CF33E5 /* FunSportStreamerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 793CD2BC1A3ECA0700CF33E5 /* FunSportStreamerTests.m */; };
+		793CD2C81A3ED2D100CF33E5 /* ENGGalileoSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 793CD2C71A3ED2D100CF33E5 /* ENGGalileoSessionManager.m */; };
+		793CD2CA1A3ED8B800CF33E5 /* ENGControllerMain.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 793CD2C91A3ED8B800CF33E5 /* ENGControllerMain.storyboard */; };
+		793CD2D01A3ED96D00CF33E5 /* ENGControllerMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 793CD2CF1A3ED96D00CF33E5 /* ENGControllerMainViewController.m */; };
+		793CD2D41A3EDB0200CF33E5 /* ENGStreamerMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 793CD2A81A3ECA0700CF33E5 /* ENGStreamerMainViewController.m */; };
+		793CD2D51A3EDB0200CF33E5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 793CD2A51A3ECA0700CF33E5 /* AppDelegate.m */; };
+		793CD2D61A3EDB0200CF33E5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 793CD2A21A3ECA0700CF33E5 /* main.m */; };
+		793CD2D71A3EDB0200CF33E5 /* ENGGalileoSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 793CD2C71A3ED2D100CF33E5 /* ENGGalileoSessionManager.m */; };
+		793CD2D81A3EDB0200CF33E5 /* ENGControllerMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 793CD2CF1A3ED96D00CF33E5 /* ENGControllerMainViewController.m */; };
+		793CD2DC1A3EDB0200CF33E5 /* ENGStreamerMain.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 793CD2AA1A3ECA0700CF33E5 /* ENGStreamerMain.storyboard */; };
+		793CD2DD1A3EDB0200CF33E5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 793CD2AF1A3ECA0700CF33E5 /* LaunchScreen.xib */; };
+		793CD2DE1A3EDB0200CF33E5 /* ENGControllerMain.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 793CD2C91A3ED8B800CF33E5 /* ENGControllerMain.storyboard */; };
+		793CD2DF1A3EDB0200CF33E5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 793CD2AD1A3ECA0700CF33E5 /* Images.xcassets */; };
+		793CD3121A3EDF3D00CF33E5 /* Controller.plist in Resources */ = {isa = PBXBuildFile; fileRef = 793CD3101A3EDF3D00CF33E5 /* Controller.plist */; };
+		793CD3131A3EDF3D00CF33E5 /* Controller.plist in Resources */ = {isa = PBXBuildFile; fileRef = 793CD3101A3EDF3D00CF33E5 /* Controller.plist */; };
+		793CD3141A3EDF3D00CF33E5 /* Streamer.plist in Resources */ = {isa = PBXBuildFile; fileRef = 793CD3111A3EDF3D00CF33E5 /* Streamer.plist */; };
+		793CD3151A3EDF3D00CF33E5 /* Streamer.plist in Resources */ = {isa = PBXBuildFile; fileRef = 793CD3111A3EDF3D00CF33E5 /* Streamer.plist */; };
+		E687DBD0EBCF46569ECBB3F2 /* libPods-FunSportController.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FD5BF6CE33F164430F7DD1A4 /* libPods-FunSportController.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		793CD2B71A3ECA0700CF33E5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 793CD2951A3ECA0700CF33E5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 793CD29C1A3ECA0700CF33E5;
+			remoteInfo = FunSportStreamer;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		288E233E7D4F8C5A1D0C94D0 /* Pods-FunSportController.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FunSportController.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FunSportController/Pods-FunSportController.debug.xcconfig"; sourceTree = "<group>"; };
+		2EADDB68D6CE25AF4D4636E0 /* Pods-FunSportStreamer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FunSportStreamer.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FunSportStreamer/Pods-FunSportStreamer.debug.xcconfig"; sourceTree = "<group>"; };
+		58D6014AF67ABD87E4673830 /* libPods-FunSportStreamer.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FunSportStreamer.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		793CD29D1A3ECA0700CF33E5 /* FunSportStreamer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FunSportStreamer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		793CD2A21A3ECA0700CF33E5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		793CD2A41A3ECA0700CF33E5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		793CD2A51A3ECA0700CF33E5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		793CD2A71A3ECA0700CF33E5 /* ENGStreamerMainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ENGStreamerMainViewController.h; sourceTree = "<group>"; };
+		793CD2A81A3ECA0700CF33E5 /* ENGStreamerMainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ENGStreamerMainViewController.m; sourceTree = "<group>"; };
+		793CD2AB1A3ECA0700CF33E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/ENGStreamerMain.storyboard; sourceTree = "<group>"; };
+		793CD2AD1A3ECA0700CF33E5 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		793CD2B01A3ECA0700CF33E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		793CD2B61A3ECA0700CF33E5 /* FunSportStreamerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FunSportStreamerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		793CD2BB1A3ECA0700CF33E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		793CD2BC1A3ECA0700CF33E5 /* FunSportStreamerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FunSportStreamerTests.m; sourceTree = "<group>"; };
+		793CD2C61A3ED2D100CF33E5 /* ENGGalileoSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ENGGalileoSessionManager.h; sourceTree = "<group>"; };
+		793CD2C71A3ED2D100CF33E5 /* ENGGalileoSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ENGGalileoSessionManager.m; sourceTree = "<group>"; };
+		793CD2C91A3ED8B800CF33E5 /* ENGControllerMain.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = ENGControllerMain.storyboard; sourceTree = "<group>"; };
+		793CD2CE1A3ED96D00CF33E5 /* ENGControllerMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ENGControllerMainViewController.h; sourceTree = "<group>"; };
+		793CD2CF1A3ED96D00CF33E5 /* ENGControllerMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ENGControllerMainViewController.m; sourceTree = "<group>"; };
+		793CD2E41A3EDB0200CF33E5 /* FunSportController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FunSportController.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		793CD3101A3EDF3D00CF33E5 /* Controller.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Controller.plist; sourceTree = "<group>"; };
+		793CD3111A3EDF3D00CF33E5 /* Streamer.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Streamer.plist; sourceTree = "<group>"; };
+		793CD31A1A3FF78200CF33E5 /* ENGGalileoConstants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ENGGalileoConstants.h; sourceTree = "<group>"; };
+		87080081CCAF31D6F016CDBE /* Pods-FunSportController.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FunSportController.release.xcconfig"; path = "Pods/Target Support Files/Pods-FunSportController/Pods-FunSportController.release.xcconfig"; sourceTree = "<group>"; };
+		8B667EA55D6B3E170C2394A5 /* Pods-FunSportStreamer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FunSportStreamer.release.xcconfig"; path = "Pods/Target Support Files/Pods-FunSportStreamer/Pods-FunSportStreamer.release.xcconfig"; sourceTree = "<group>"; };
+		FD5BF6CE33F164430F7DD1A4 /* libPods-FunSportController.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FunSportController.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		793CD29A1A3ECA0700CF33E5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				45196364890CC1F68D6CF213 /* libPods-FunSportStreamer.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		793CD2B31A3ECA0700CF33E5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		793CD2D91A3EDB0200CF33E5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E687DBD0EBCF46569ECBB3F2 /* libPods-FunSportController.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3C9E404341A90E7C4D2F32A8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				58D6014AF67ABD87E4673830 /* libPods-FunSportStreamer.a */,
+				FD5BF6CE33F164430F7DD1A4 /* libPods-FunSportController.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		793CD2941A3ECA0700CF33E5 = {
+			isa = PBXGroup;
+			children = (
+				793CD29F1A3ECA0700CF33E5 /* FunSportStreamer */,
+				793CD2B91A3ECA0700CF33E5 /* FunSportStreamerTests */,
+				793CD29E1A3ECA0700CF33E5 /* Products */,
+				DFFB7F9CBF1D65BF5C42EDF3 /* Pods */,
+				3C9E404341A90E7C4D2F32A8 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		793CD29E1A3ECA0700CF33E5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				793CD29D1A3ECA0700CF33E5 /* FunSportStreamer.app */,
+				793CD2B61A3ECA0700CF33E5 /* FunSportStreamerTests.xctest */,
+				793CD2E41A3EDB0200CF33E5 /* FunSportController.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		793CD29F1A3ECA0700CF33E5 /* FunSportStreamer */ = {
+			isa = PBXGroup;
+			children = (
+				793CD2CD1A3ED92700CF33E5 /* Utilities */,
+				793CD2CC1A3ED91900CF33E5 /* Controller */,
+				793CD2CB1A3ED8C300CF33E5 /* Streamer */,
+				793CD2A41A3ECA0700CF33E5 /* AppDelegate.h */,
+				793CD2A51A3ECA0700CF33E5 /* AppDelegate.m */,
+				793CD2AD1A3ECA0700CF33E5 /* Images.xcassets */,
+				793CD2AF1A3ECA0700CF33E5 /* LaunchScreen.xib */,
+				793CD2A01A3ECA0700CF33E5 /* Supporting Files */,
+			);
+			path = FunSportStreamer;
+			sourceTree = "<group>";
+		};
+		793CD2A01A3ECA0700CF33E5 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				793CD3101A3EDF3D00CF33E5 /* Controller.plist */,
+				793CD3111A3EDF3D00CF33E5 /* Streamer.plist */,
+				793CD2A21A3ECA0700CF33E5 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		793CD2B91A3ECA0700CF33E5 /* FunSportStreamerTests */ = {
+			isa = PBXGroup;
+			children = (
+				793CD2BC1A3ECA0700CF33E5 /* FunSportStreamerTests.m */,
+				793CD2BA1A3ECA0700CF33E5 /* Supporting Files */,
+			);
+			path = FunSportStreamerTests;
+			sourceTree = "<group>";
+		};
+		793CD2BA1A3ECA0700CF33E5 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				793CD2BB1A3ECA0700CF33E5 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		793CD2CB1A3ED8C300CF33E5 /* Streamer */ = {
+			isa = PBXGroup;
+			children = (
+				793CD2A71A3ECA0700CF33E5 /* ENGStreamerMainViewController.h */,
+				793CD2A81A3ECA0700CF33E5 /* ENGStreamerMainViewController.m */,
+				793CD2AA1A3ECA0700CF33E5 /* ENGStreamerMain.storyboard */,
+			);
+			name = Streamer;
+			sourceTree = "<group>";
+		};
+		793CD2CC1A3ED91900CF33E5 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				793CD2CE1A3ED96D00CF33E5 /* ENGControllerMainViewController.h */,
+				793CD2CF1A3ED96D00CF33E5 /* ENGControllerMainViewController.m */,
+				793CD2C91A3ED8B800CF33E5 /* ENGControllerMain.storyboard */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		793CD2CD1A3ED92700CF33E5 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				793CD2C61A3ED2D100CF33E5 /* ENGGalileoSessionManager.h */,
+				793CD2C71A3ED2D100CF33E5 /* ENGGalileoSessionManager.m */,
+				793CD31A1A3FF78200CF33E5 /* ENGGalileoConstants.h */,
+			);
+			name = Utilities;
+			sourceTree = "<group>";
+		};
+		DFFB7F9CBF1D65BF5C42EDF3 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				2EADDB68D6CE25AF4D4636E0 /* Pods-FunSportStreamer.debug.xcconfig */,
+				8B667EA55D6B3E170C2394A5 /* Pods-FunSportStreamer.release.xcconfig */,
+				288E233E7D4F8C5A1D0C94D0 /* Pods-FunSportController.debug.xcconfig */,
+				87080081CCAF31D6F016CDBE /* Pods-FunSportController.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		793CD29C1A3ECA0700CF33E5 /* FunSportStreamer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 793CD2C01A3ECA0700CF33E5 /* Build configuration list for PBXNativeTarget "FunSportStreamer" */;
+			buildPhases = (
+				E4DB7B72C5085F0271CD5812 /* Check Pods Manifest.lock */,
+				793CD2991A3ECA0700CF33E5 /* Sources */,
+				793CD29A1A3ECA0700CF33E5 /* Frameworks */,
+				793CD29B1A3ECA0700CF33E5 /* Resources */,
+				802671D3F49DEC1FD5CBFC0C /* Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FunSportStreamer;
+			productName = FunSportStreamer;
+			productReference = 793CD29D1A3ECA0700CF33E5 /* FunSportStreamer.app */;
+			productType = "com.apple.product-type.application";
+		};
+		793CD2B51A3ECA0700CF33E5 /* FunSportStreamerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 793CD2C31A3ECA0700CF33E5 /* Build configuration list for PBXNativeTarget "FunSportStreamerTests" */;
+			buildPhases = (
+				793CD2B21A3ECA0700CF33E5 /* Sources */,
+				793CD2B31A3ECA0700CF33E5 /* Frameworks */,
+				793CD2B41A3ECA0700CF33E5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				793CD2B81A3ECA0700CF33E5 /* PBXTargetDependency */,
+			);
+			name = FunSportStreamerTests;
+			productName = FunSportStreamerTests;
+			productReference = 793CD2B61A3ECA0700CF33E5 /* FunSportStreamerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		793CD2D11A3EDB0200CF33E5 /* FunSportController */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 793CD2E11A3EDB0200CF33E5 /* Build configuration list for PBXNativeTarget "FunSportController" */;
+			buildPhases = (
+				793CD2D21A3EDB0200CF33E5 /* Check Pods Manifest.lock */,
+				793CD2D31A3EDB0200CF33E5 /* Sources */,
+				793CD2D91A3EDB0200CF33E5 /* Frameworks */,
+				793CD2DB1A3EDB0200CF33E5 /* Resources */,
+				793CD2E01A3EDB0200CF33E5 /* Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FunSportController;
+			productName = FunSportStreamer;
+			productReference = 793CD2E41A3EDB0200CF33E5 /* FunSportController.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		793CD2951A3ECA0700CF33E5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = ENG;
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = engraphia;
+				TargetAttributes = {
+					793CD29C1A3ECA0700CF33E5 = {
+						CreatedOnToolsVersion = 6.1.1;
+					};
+					793CD2B51A3ECA0700CF33E5 = {
+						CreatedOnToolsVersion = 6.1.1;
+						TestTargetID = 793CD29C1A3ECA0700CF33E5;
+					};
+				};
+			};
+			buildConfigurationList = 793CD2981A3ECA0700CF33E5 /* Build configuration list for PBXProject "FunSportStreamer" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 793CD2941A3ECA0700CF33E5;
+			productRefGroup = 793CD29E1A3ECA0700CF33E5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				793CD2D11A3EDB0200CF33E5 /* FunSportController */,
+				793CD29C1A3ECA0700CF33E5 /* FunSportStreamer */,
+				793CD2B51A3ECA0700CF33E5 /* FunSportStreamerTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		793CD29B1A3ECA0700CF33E5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				793CD2AC1A3ECA0700CF33E5 /* ENGStreamerMain.storyboard in Resources */,
+				793CD3151A3EDF3D00CF33E5 /* Streamer.plist in Resources */,
+				793CD3131A3EDF3D00CF33E5 /* Controller.plist in Resources */,
+				793CD2B11A3ECA0700CF33E5 /* LaunchScreen.xib in Resources */,
+				793CD2CA1A3ED8B800CF33E5 /* ENGControllerMain.storyboard in Resources */,
+				793CD2AE1A3ECA0700CF33E5 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		793CD2B41A3ECA0700CF33E5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		793CD2DB1A3EDB0200CF33E5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				793CD2DC1A3EDB0200CF33E5 /* ENGStreamerMain.storyboard in Resources */,
+				793CD3141A3EDF3D00CF33E5 /* Streamer.plist in Resources */,
+				793CD3121A3EDF3D00CF33E5 /* Controller.plist in Resources */,
+				793CD2DD1A3EDB0200CF33E5 /* LaunchScreen.xib in Resources */,
+				793CD2DE1A3EDB0200CF33E5 /* ENGControllerMain.storyboard in Resources */,
+				793CD2DF1A3EDB0200CF33E5 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		793CD2D21A3EDB0200CF33E5 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		793CD2E01A3EDB0200CF33E5 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FunSportController/Pods-FunSportController-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		802671D3F49DEC1FD5CBFC0C /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FunSportStreamer/Pods-FunSportStreamer-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E4DB7B72C5085F0271CD5812 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		793CD2991A3ECA0700CF33E5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				793CD2A91A3ECA0700CF33E5 /* ENGStreamerMainViewController.m in Sources */,
+				793CD2A61A3ECA0700CF33E5 /* AppDelegate.m in Sources */,
+				793CD2A31A3ECA0700CF33E5 /* main.m in Sources */,
+				793CD2C81A3ED2D100CF33E5 /* ENGGalileoSessionManager.m in Sources */,
+				793CD2D01A3ED96D00CF33E5 /* ENGControllerMainViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		793CD2B21A3ECA0700CF33E5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				793CD2BD1A3ECA0700CF33E5 /* FunSportStreamerTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		793CD2D31A3EDB0200CF33E5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				793CD2D41A3EDB0200CF33E5 /* ENGStreamerMainViewController.m in Sources */,
+				793CD2D51A3EDB0200CF33E5 /* AppDelegate.m in Sources */,
+				793CD2D61A3EDB0200CF33E5 /* main.m in Sources */,
+				793CD2D71A3EDB0200CF33E5 /* ENGGalileoSessionManager.m in Sources */,
+				793CD2D81A3EDB0200CF33E5 /* ENGControllerMainViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		793CD2B81A3ECA0700CF33E5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 793CD29C1A3ECA0700CF33E5 /* FunSportStreamer */;
+			targetProxy = 793CD2B71A3ECA0700CF33E5 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		793CD2AA1A3ECA0700CF33E5 /* ENGStreamerMain.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				793CD2AB1A3ECA0700CF33E5 /* Base */,
+			);
+			name = ENGStreamerMain.storyboard;
+			sourceTree = "<group>";
+		};
+		793CD2AF1A3ECA0700CF33E5 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				793CD2B01A3ECA0700CF33E5 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		793CD2BE1A3ECA0700CF33E5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		793CD2BF1A3ECA0700CF33E5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		793CD2C11A3ECA0700CF33E5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2EADDB68D6CE25AF4D4636E0 /* Pods-FunSportStreamer.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "$(SRCROOT)/FunSportStreamer/Streamer.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		793CD2C21A3ECA0700CF33E5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8B667EA55D6B3E170C2394A5 /* Pods-FunSportStreamer.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "$(SRCROOT)/FunSportStreamer/Streamer.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		793CD2C41A3ECA0700CF33E5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = FunSportStreamerTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FunSportStreamer.app/FunSportStreamer";
+			};
+			name = Debug;
+		};
+		793CD2C51A3ECA0700CF33E5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = FunSportStreamerTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FunSportStreamer.app/FunSportStreamer";
+			};
+			name = Release;
+		};
+		793CD2E21A3EDB0200CF33E5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 288E233E7D4F8C5A1D0C94D0 /* Pods-FunSportController.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "$(SRCROOT)/FunSportStreamer/Controller.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = FunSportController;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		793CD2E31A3EDB0200CF33E5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 87080081CCAF31D6F016CDBE /* Pods-FunSportController.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "$(SRCROOT)/FunSportStreamer/Controller.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = FunSportController;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		793CD2981A3ECA0700CF33E5 /* Build configuration list for PBXProject "FunSportStreamer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				793CD2BE1A3ECA0700CF33E5 /* Debug */,
+				793CD2BF1A3ECA0700CF33E5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		793CD2C01A3ECA0700CF33E5 /* Build configuration list for PBXNativeTarget "FunSportStreamer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				793CD2C11A3ECA0700CF33E5 /* Debug */,
+				793CD2C21A3ECA0700CF33E5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		793CD2C31A3ECA0700CF33E5 /* Build configuration list for PBXNativeTarget "FunSportStreamerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				793CD2C41A3ECA0700CF33E5 /* Debug */,
+				793CD2C51A3ECA0700CF33E5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		793CD2E11A3EDB0200CF33E5 /* Build configuration list for PBXNativeTarget "FunSportController" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				793CD2E21A3EDB0200CF33E5 /* Debug */,
+				793CD2E31A3EDB0200CF33E5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 793CD2951A3ECA0700CF33E5 /* Project object */;
+}
